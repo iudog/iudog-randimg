@@ -29,9 +29,10 @@
 - **本质**：请教你的各大AI老师后完成的
 
 ## ~~后续更新计划：~~
-- ~~还没想过，就一自用的小玩具，后续自己需要什么就写什么~~
+~~还没想过，就一自用的小玩具，后续自己需要什么就写什么~~
+
 ---
-觉得好用不🥰打赏我一下下不😍😍😍 
+## 觉得好用不🥰打赏我一下下不😍😍😍 
 <div style="display: flex; justify-content: center; gap: 15px; align-items: center;">
   <img src="https://pic1.zhimg.com/80/v2-ee598d4f48d8ab85c48811c16c40a662" alt="微信赞赏" style="height: 400px; width: auto;">
   <img src="https://pica.zhimg.com/80/v2-4cee2b633dce4a188ef680cbc7a22bd4" alt="支付宝" style="height: 400px; width: auto;">
